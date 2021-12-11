@@ -1,6 +1,6 @@
 # soda-orchestration-engine
 
-Our paper "SODA: A system for Cyber Deception Orchestration and Automation" has been accepted to appear at the 37th Annual Computer Security Applications Conference (ACSAC 2021)!
+Our paper **"SODA: A system for Cyber Deception Orchestration and Automation"** has been accepted to appear at the 37th Annual Computer Security Applications Conference (ACSAC 2021)!
 We are planning to release the followings:
 1. Partial Source Code
 2. Demo
